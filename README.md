@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # Smart Student Portal
-Deployed link : (https://onboardingagent02.netlify.app/)
-
+Deployed link https://onboardingagent02.netlify.app/
 A modern, professional Single Page Application (SPA) for student onboarding and management.
 
 ## 🚀 Quick Start
